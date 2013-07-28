@@ -1,29 +1,28 @@
 #######################################
-# Syntax Coloring Map For Stepper
+# Syntax Coloring Map For LEDs
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-Stepper                        KEYWORD1
+LED                            KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-step                           KEYWORD2
-setSpeed                       KEYWORD2
-version                        KEYWORD2
-
-#######################################
-# Instances (KEYWORD2)
-#######################################
-
-direction                      KEYWORD2
-speed                          KEYWORD2
+getState                       KEYWORD2
+on                             KEYWORD2
+off                            KEYWORD2
+toggle                         KEYWORD2
+blink                          KEYWORD2
+setValue                       KEYWORD2
+fadeIn                         KEYWORD2
+fadeOut                        KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
+
 

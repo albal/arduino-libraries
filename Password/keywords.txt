@@ -1,27 +1,22 @@
 #######################################
-# Syntax Coloring Map For Stepper
+# Syntax Coloring Map For Password
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-Stepper                        KEYWORD1
+Password                       KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-step                           KEYWORD2
-setSpeed                       KEYWORD2
-version                        KEYWORD2
-
-#######################################
-# Instances (KEYWORD2)
-#######################################
-
-direction                      KEYWORD2
-speed                          KEYWORD2
+set                            KEYWORD2
+is                             KEYWORD2
+append                         KEYWORD2
+reset                          KEYWORD2
+evaluate                       KEYWORD2
 
 #######################################
 # Constants (LITERAL1)

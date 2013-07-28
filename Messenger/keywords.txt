@@ -1,27 +1,27 @@
 #######################################
-# Syntax Coloring Map For Stepper
+# Syntax Coloring Map For Messenger
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-Stepper                        KEYWORD1
+Messenger                      KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-step                           KEYWORD2
-setSpeed                       KEYWORD2
-version                        KEYWORD2
+process                        KEYWORD2
+readInt                        KEYWORD2
+readLong                       KEYWORD2
+readChar                       KEYWORD2
+copyString                     KEYWORD2
+checkString                    KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
 #######################################
-
-direction                      KEYWORD2
-speed                          KEYWORD2
 
 #######################################
 # Constants (LITERAL1)

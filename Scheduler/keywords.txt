@@ -1,27 +1,19 @@
 #######################################
-# Syntax Coloring Map For Stepper
+# Syntax Coloring Map For Schedule
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-Stepper                        KEYWORD1
+Scheduler                      KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-step                           KEYWORD2
-setSpeed                       KEYWORD2
-version                        KEYWORD2
-
-#######################################
-# Instances (KEYWORD2)
-#######################################
-
-direction                      KEYWORD2
-speed                          KEYWORD2
+schedule                       KEYWORD2
+update                         KEYWORD2
 
 #######################################
 # Constants (LITERAL1)

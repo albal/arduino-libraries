@@ -1,29 +1,26 @@
 #######################################
-# Syntax Coloring Map For Stepper
+# Syntax Coloring Map For TimedAction
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-Stepper                        KEYWORD1
+TimedAction                    KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-step                           KEYWORD2
-setSpeed                       KEYWORD2
-version                        KEYWORD2
-
-#######################################
-# Instances (KEYWORD2)
-#######################################
-
-direction                      KEYWORD2
-speed                          KEYWORD2
+reset                          KEYWORD2
+enable                         KEYWORD2
+disable                        KEYWORD2
+check                          KEYWORD2
+setInterval                    KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
+
+NO_PREDELAY                    LITERAL1
 

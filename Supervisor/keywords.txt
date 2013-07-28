@@ -1,27 +1,20 @@
 #######################################
-# Syntax Coloring Map For Stepper
+# Syntax Coloring Map For Supervisor
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-Stepper                        KEYWORD1
+Supervisor                     KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-step                           KEYWORD2
-setSpeed                       KEYWORD2
-version                        KEYWORD2
-
-#######################################
-# Instances (KEYWORD2)
-#######################################
-
-direction                      KEYWORD2
-speed                          KEYWORD2
+addRule                        KEYWORD2
+removeRule                     KEYWORD2
+checkRules                     KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
